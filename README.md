@@ -10,10 +10,10 @@
 <a href="#"><img title="PacarGelapMu" src="https://img.shields.io/badge/rendyaaaditya-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/rendyaaaditya"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ARIS187 ID-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/rendyaaaditya"><img title="Author" src="https://img.shields.io/badge/AUTHOR-rendyaaaditya ID-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://www.codefactor.io/repository/github/A187ID/AR15BOT"><img title="Rating" src="https://www.codefactor.io/repository/github/rendyaaaditya/wabot/badge/main"></a>
+<a href="https://www.codefactor.io/repository/github/rendyaaaditya/wabot"><img title="Rating" src="https://www.codefactor.io/repository/github/rendyaaaditya/wabot/badge/main"></a>
 </p>
 <p align="center">
 <a href="https://github.com/rendyaaaditya/wabot/followers"><img title="Followers" src="https://img.shields.io/github/followers/rendyaaaditya?color=blue&style=flat-square"></a>
@@ -105,7 +105,7 @@ Ket: Aktiv 24 jam
 * [`ArugaZ`](https://github.com/ArugaZ/whatsapp-bot)
 * [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot)
 * [`Alfbot`](https://github.com/alfiansx/alfbot)
-* [`A187ID`]
-(https://github.com/A187ID/AR15BOT)
+* [`A187ID`](https://github.com/A187ID/AR15BOT)
+
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
